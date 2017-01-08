@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555255803610",
+    "project_id": "vanapp-206a5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555255803610:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555255803610-75m0gm7v44iucpddts30oi57jami4dcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "374C5A97E99D34935F25306D969AA33DFAEDCA07"
+          }
+        },
+        {
+          "client_id": "555255803610-n5j6po0bl0o5a7v3i9djnhefvskvafd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_23yfoONQF4WRiFlLU0XYcV7ebw7aXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
